@@ -212,7 +212,7 @@ Response
 **Atul Jaiswal**
 
 - GitHub: https://github.com/atulcodes-tech
-- LinkedIn: [Add your LinkedIn profile](https://www.linkedin.com/in/subhkaran-jaiswal/)
+- LinkedIn: (https://www.linkedin.com/in/subhkaran-jaiswal/)
 
 ---
 
