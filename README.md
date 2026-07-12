@@ -206,13 +206,12 @@ Response
 - Admin Panel
 
 ---
-
 ## 👨‍💻 Author
 
-**SubhKaran Jaiswal**
+**Atul Jaiswal**
 
-- GitHub: https://github.com/atulcodes-tech
-- LinkedIn: https://www.linkedin.com/in/subhkaran-jaiswal/
+- GitHub: [atulcodes-tech](https://github.com/atulcodes-tech)
+- LinkedIn: [Atul Jaiswal](https://www.linkedin.com/in/subhkaran-jaiswal/)
 
 ---
 
