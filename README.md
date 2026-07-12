@@ -209,13 +209,10 @@ Response
 
 ## 👨‍💻 Author
 
-**Atul Jaiswal**
+**SubhKaran Jaiswal**
 
 - GitHub: https://github.com/atulcodes-tech
-- LinkedIn: [https://www.linkedin.com/in/subhkaran-jaiswal/]
+- LinkedIn: https://www.linkedin.com/in/subhkaran-jaiswal/
 
 ---
 
-## 📄 License
-
-This project is licensed under the MIT License.
