@@ -208,7 +208,7 @@ Response
 ---
 ## 👨‍💻 Author
 
-**Atul Jaiswal**
+**Subhkaran Jaiswal**
 
 - GitHub: [atulcodes-tech](https://github.com/atulcodes-tech)
 - LinkedIn: [Atul Jaiswal](https://www.linkedin.com/in/subhkaran-jaiswal/)
